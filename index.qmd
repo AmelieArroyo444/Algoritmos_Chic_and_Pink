@@ -1,0 +1,26 @@
+---
+website:
+  title: "🎀 Algoritmos Chic & Pink 🎀"
+  description: "Descripción de la página"
+  url: "https://www.algoritmoschic%26pink.com"  # URL codificada para evitar problemas con el símbolo '&'
+  author: "Amelie Arroyo"
+output:
+  html:
+    path: "algoritmoschic&pink.html"  # Ruta donde se generará el archivo HTML
+    theme: default  # Tema HTML predeterminado
+    css: styles.css  # Archivo CSS personalizado
+---
+
+**¡Chicas, este es el momento perfecto para adentrarse en el fascinante mundo de los algoritmos de inteligencia artificial! 🌟💻💓**
+
+En una era donde los datos y la tecnología están transformando todo a nuestro alrededor, las herramientas que nos brindan las matemáticas, la estadística, la computación y la programación son esenciales para entender lo que sucede a nuestro alrededor. 🤩🪐
+
+Sabemos que las matemáticas a veces pueden parecer complicadas, ¡pero no te preocupes! Con los ejemplos de esta página, todo se vuelve mucho más fácil de entender. 📚✨
+
+¡Vas a ver cómo cada concepto se conecta y te va a sorprender lo lejos que puedes llegar!
+
+Estos conocimientos no solo forman la base de modelos científicos poderosos, sino que también nos permiten crear cambios reales en áreas clave como la salud mental, la educación y las políticas públicas. 💖💡🧠
+
+Imagina diseñar soluciones que puedan prever tendencias de consumo, influir en redes sociales o incluso desarrollar nuevas tecnologías. Todo esto es posible gracias a las habilidades que estás a punto de dominar. Los algoritmos de IA están revolucionando el mundo, ¡y tú puedes ser parte de esta transformación! 🌸💫💻✨
+
+No tengas miedo de sumergirte en este universo lleno de posibilidades. ¡El futuro está en nuestras manos! 🌟💖🚀
