@@ -2,11 +2,11 @@
 website:
   title: "🎀 Algoritmos Chic & Pink 🎀"
   description: "Descripción de la página"
-  url: "https://www.algoritmoschic%26pink.com"  # URL codificada para evitar problemas con el símbolo '&'
+  url: "https://AmelieArroyo444/Algoritmos_Chic_and_Pink/"  # Cambia esto por la URL de tu sitio web en GitHub Pages
   author: "Amelie Arroyo"
 output:
   html:
-    path: "algoritmoschic&pink.html"  # Ruta donde se generará el archivo HTML
+    path: "index.html"  # Ruta donde se generará el archivo HTML
     theme: default  # Tema HTML predeterminado
     css: styles.css  # Archivo CSS personalizado
 ---
