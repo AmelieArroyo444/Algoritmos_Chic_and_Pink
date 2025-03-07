@@ -101,3 +101,22 @@ button:hover {
     margin: 0 15px;
   }
 }
+
+/* Ajusta el tamaño del texto según el ancho de la pantalla */
+body {
+  font-size: 4vw; /* 4% del ancho de la ventana */
+}
+
+/* Para dispositivos con pantallas más pequeñas, como teléfonos móviles */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 5vw; /* Más grande en pantallas pequeñas */
+  }
+}
+
+/* Para pantallas grandes, como Macs de escritorio */
+@media screen and (min-width: 1200px) {
+  body {
+    font-size: 2vw; /* Más pequeño en pantallas grandes */
+  }
+}
