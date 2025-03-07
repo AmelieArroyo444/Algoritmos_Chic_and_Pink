@@ -1,40 +1,32 @@
-/* css styles */
-
+/* Importar la fuente Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap');
-@import url('https://www.fontbureau.com/fonts/MillerText');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap');
-
 
 body {
-    font-family: 'Poppins';
-    color:black
-    a {
-    color: #e91e63; /* Un tono de rosa */
-    text-decoration: none; /* Opcional: quitar subrayado */
-}
-
-a:hover {
-    color: #d81b60; /* Un rosa más oscuro al pasar el mouse */
-}
+    font-family: 'Poppins', sans-serif;
+    color: black;
     background-color: white;
     margin: 0;
     padding: 20px;
     max-width: 1800px;
     margin: 0 auto; /* Centrar la página */
     transition: background-color 0.3s ease, color 0.3s ease;
-    a:hover {
-    color: #FF69B4;
-   
 }
 
+/* Estilos para enlaces */
+a {
+    color: #F4A7B9 !important; /* Rosa pastel */
+    text-decoration: none !important; /* Quitar subrayado */
+}
+
+a:hover {
+    color: #E91E63 !important; /* Rosa mexicano */
+    font-weight: bold !important;
+}
+
+/* Botones */
 button:hover {
     background-color: #FF69B4;
     color: white;
-}
-
 }
 
 /* Estilos para pantallas pequeñas */
@@ -69,23 +61,23 @@ button:hover {
 @media (min-width: 769px) {
   body {
     font-size: 18px; /* Tamaño de texto más grande para pantallas grandes */
-    padding: 20px;   /* Más relleno para un diseño más espacioso */
+    padding: 20px;
   }
 
   .container {
-    max-width: 1200px; /* Contenedor con un ancho máximo para no extenderse demasiado */
+    max-width: 1200px;
     margin: 0 auto;
     padding: 30px;
   }
 
   img {
-    max-width: 100%; /* Asegura que las imágenes se ajusten al contenedor */
+    max-width: 100%;
     height: auto;
   }
 
   .menu {
     display: flex;
-    justify-content: space-around; /* Menú horizontal para pantallas grandes */
+    justify-content: space-around; /* Menú horizontal */
   }
 
   .menu li {
