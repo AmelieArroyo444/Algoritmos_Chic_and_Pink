@@ -1,4 +1,4 @@
-/* Importar la fuente Poppins desde Google Fonts */
+/* css styles */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 /* Estilo para el cuerpo de la página */
@@ -73,6 +73,11 @@ button:hover {
         display: block; /* Hacer que cada elemento del menú ocupe una línea */
         margin: 5px 0; /* Añadir márgenes de 5px entre los elementos del menú */
     }
+
+    /* Hacer el texto del nombre del sitio más pequeño en pantallas pequeñas */
+    .navbar-brand {
+        font-size: 18px; /* Reducir el tamaño del texto */
+    }
 }
 
 /* Estilos para pantallas grandes (mínimo 769px de ancho) */
@@ -101,5 +106,11 @@ button:hover {
     .menu li {
         display: inline-block; /* Mostrar cada elemento del menú en línea */
         margin: 0 15px; /* Añadir márgenes a los lados de los elementos del menú */
+    }
+
+    /* Reducir el margen entre los párrafos y el borde de la página */
+    p {
+        margin-top: 10px; /* Reducir el margen superior de los párrafos */
+        margin-bottom: 10px; /* Reducir el margen inferior de los párrafos */
     }
 }
