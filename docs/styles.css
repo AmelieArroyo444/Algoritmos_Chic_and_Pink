@@ -94,7 +94,7 @@ button:hover {
     }
 
     img {
-        max-width: 100%; /* Hacer que las imágenes se ajusten al ancho del contenedor */
+        max-width: 90%; /* Hacer que las imágenes se ajusten al ancho del contenedor */
         height: auto; /* Mantener la relación de aspecto de las imágenes */
     }
 
