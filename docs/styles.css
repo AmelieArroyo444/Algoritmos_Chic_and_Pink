@@ -11,6 +11,14 @@
 body {
     font-family: 'Poppins';
     color:black
+    a {
+    color: #e91e63; /* Un tono de rosa */
+    text-decoration: none; /* Opcional: quitar subrayado */
+}
+
+a:hover {
+    color: #d81b60; /* Un rosa más oscuro al pasar el mouse */
+}
     background-color: white;
     margin: 0;
     padding: 20px;
