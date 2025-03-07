@@ -58,9 +58,9 @@ html, body {
   line-height: 1.6;     /* Mejora la legibilidad del texto */
 }
 
-/* Ajusta el tamaño del texto según el ancho de la pantalla */
+/* Ajusta el tamaño del texto según el ancho de la pantalla usando clamp */
 body {
-  font-size: 4vw; /* 4% del ancho de la ventana */
+  font-size: clamp(1rem, 4vw, 2.5rem); /* Ajuste flexible */
   width: 100%; /* Ocupa el 100% del ancho de la pantalla */
   padding: 10px; /* Añade algo de espacio alrededor del texto */
 }
@@ -68,14 +68,14 @@ body {
 /* Para dispositivos con pantallas más pequeñas, como teléfonos móviles */
 @media screen and (max-width: 768px) {
   body {
-    font-size: 5vw; /* Más grande en pantallas pequeñas */
+    font-size: clamp(1rem, 5vw, 3rem); /* Más grande en pantallas pequeñas */
   }
 }
 
 /* Para pantallas grandes, como Macs de escritorio */
 @media screen and (min-width: 1200px) {
   body {
-    font-size: 2vw; /* Más pequeño en pantallas grandes */
+    font-size: clamp(1.5rem, 2.5vw, 3rem); /* Fuente más controlada en pantallas grandes */
   }
 }
 
