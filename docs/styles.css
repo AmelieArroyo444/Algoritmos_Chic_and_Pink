@@ -94,7 +94,7 @@ button:hover {
     }
 
     img {
-        max-width: 90%; /* Hacer que las imágenes se ajusten al ancho del contenedor */
+        max-width: 100%; /* Hacer que las imágenes se ajusten al ancho del contenedor */
         height: auto; /* Mantener la relación de aspecto de las imágenes */
     }
 
@@ -110,7 +110,7 @@ button:hover {
 
     /* Reducir el margen entre los párrafos y el borde de la página */
     p {
-        margin-top: 10px; /* Reducir el margen superior de los párrafos */
-        margin-bottom: 10px; /* Reducir el margen inferior de los párrafos */
+        margin-top: 50px; /* Reducir el margen superior de los párrafos */
+        margin-bottom: 50px; /* Reducir el margen inferior de los párrafos */
     }
 }
