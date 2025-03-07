@@ -18,11 +18,14 @@ body {
     margin: 0 auto; /* Centrar la página */
     transition: background-color 0.3s ease, color 0.3s ease;
     a:hover {
-    color: #e4007c;
+    color:#FF69B4;
+    theme:
+    light: flatly
+    dark: darkly
 }
 
 button:hover {
-    background-color: #e4007c;
+    background-color: #FF69B4;
     color: white;
 }
 
