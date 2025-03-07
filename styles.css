@@ -45,66 +45,24 @@ button:hover {
     color: white;
 }
 
-/* Estilos para pantallas pequeñas */
-@media (max-width: 768px) {
-  body {
-    font-size: 16px;
-    padding: 10px;
-  }
-
-  .container {
-    margin: 0 auto;
-    padding: 15px;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  .menu {
-    display: block;
-    text-align: center;
-  }
-
-  .menu li {
-    display: block;
-    margin: 5px 0;
-  }
-}
-
-/* Estilos para pantallas grandes */
-@media (min-width: 769px) {
-  body {
-    font-size: 18px; /* Tamaño de texto más grande para pantallas grandes */
-    padding: 20px;
-  }
-
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 30px;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  .menu {
-    display: flex;
-    justify-content: space-around; /* Menú horizontal */
-  }
-
-  .menu li {
-    display: inline-block;
-    margin: 0 15px;
-  }
+/* Asegura que el body ocupe todo el ancho y alto de la ventana */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;  /* Alinea el texto a ambos márgenes */
+  line-height: 1.6;     /* Mejora la legibilidad del texto */
 }
 
 /* Ajusta el tamaño del texto según el ancho de la pantalla */
 body {
   font-size: 4vw; /* 4% del ancho de la ventana */
+  width: 100%; /* Ocupa el 100% del ancho de la pantalla */
+  padding: 10px; /* Añade algo de espacio alrededor del texto */
 }
 
 /* Para dispositivos con pantallas más pequeñas, como teléfonos móviles */
@@ -119,4 +77,12 @@ body {
   body {
     font-size: 2vw; /* Más pequeño en pantallas grandes */
   }
+}
+
+/* Si el contenido está dentro de un contenedor (opcional) */
+.container {
+  width: 100%;
+  max-width: 1200px;  /* Para no exceder el ancho en pantallas grandes */
+  padding: 10px;
+  box-sizing: border-box;
 }
