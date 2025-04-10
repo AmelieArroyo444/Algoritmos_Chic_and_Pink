@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "🎀 Algoritmos Chic & Pink 🎀",
+    "section": "",
+    "text": "¡Chicas, este es el momento perfecto para adentrarse en el fascinante mundo de los algoritmos de inteligencia artificial! 🌟💻💖\nEn una era donde los datos y la tecnología están transformando todo a nuestro alrededor, las herramientas que nos brindan las matemáticas, la estadística, la computación y la programación son esenciales para entender lo que sucede a nuestro alrededor. 🤩🪐\nSabemos que las matemáticas a veces pueden parecer complicadas, ¡pero no te preocupes! Con los ejemplos de esta página, todo se vuelve mucho más fácil de entender. 📚✨\n¡Vas a ver cómo cada concepto se conecta y te va a sorprender lo lejos que puedes llegar!\nEstos conocimientos no solo forman la base de modelos científicos poderosos, sino que también nos permiten crear cambios reales en áreas clave como la salud mental, la educación y las políticas públicas. 💖💡🧠\nImagina diseñar soluciones que puedan prever tendencias de consumo, influir en redes sociales o incluso desarrollar nuevas tecnologías. Todo esto es posible gracias a las habilidades que estás a punto de dominar. Los algoritmos de IA están revolucionando el mundo, ¡y tú puedes ser parte de esta transformación! 🌸🌝💻✨\nNo tengas miedo de sumergirte en este universo lleno de posibilidades. ¡El futuro está en nuestras manos! 🌟💖🚀"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Nivel 1: Fundamentos Básicos",
+    "section": "",
+    "text": "1. Matemáticas Fundamentales\nÁlgebra básica (ecuaciones, factorización, exponentes, logaritmos)\n\nGeometría y trigonometría (funciones trigonométricas, vectores básicos) Introducción a la lógica matemática (proposiciones, cuantificadores, conjuntos)\n2. Pensamiento Computacional\nConceptos básicos de programación (Python recomendado)\n\nAlgoritmos y estructuras de datos básicas (listas, diccionarios, bucles, funciones) Uso de herramientas como Jupyter Notebook para código reproducible\n3. Razonamiento Probabilístico y Estadístico\nConceptos básicos de probabilidad (espacios muestrales, combinatoria) Medidas estadísticas (media, mediana, varianza, desviación estándar) Distribuciones fundamentales (binomial, normal, uniforme)"
+  },
+  {
+    "objectID": "Nivel2.html",
+    "href": "Nivel2.html",
+    "title": "Nivel 2: Aplicaciones Iniciales",
+    "section": "",
+    "text": "1. Matemáticas Aplicadas\nCálculo diferencial e integral básico (límites, derivadas, integrales simples) Álgebra lineal inicial (sistemas de ecuaciones, matrices, vectores) Introducción a ecuaciones diferenciales\n2. Programación para Análisis de Datos\nManejo de librerías como NumPy, Pandas, Matplotlib\nCargar, limpiar y analizar datasets Conceptos de simulación computacional (generar datos sintéticos, distribuciones)\n3. Introducción a Modelos de Decisión\nCómo se toman decisiones bajo incertidumbre (introducción a heurísticas y sesgos) Introducción a teoría de juegos (dilema del prisionero, juegos simples) Modelos de utilidad esperada"
+  },
+  {
+    "objectID": "minipags/about.html",
+    "href": "minipags/about.html",
+    "title": "Nivel 1: Fundamentos Básicos",
+    "section": "",
+    "text": "1. Matemáticas Fundamentales\nÁlgebra básica (ecuaciones, factorización, exponentes, logaritmos)\n\nGeometría y trigonometría (funciones trigonométricas, vectores básicos) Introducción a la lógica matemática (proposiciones, cuantificadores, conjuntos)\n2. Pensamiento Computacional\nConceptos básicos de programación (Python recomendado)\n\nAlgoritmos y estructuras de datos básicas (listas, diccionarios, bucles, funciones) Uso de herramientas como Jupyter Notebook para código reproducible\n3. Razonamiento Probabilístico y Estadístico\nConceptos básicos de probabilidad (espacios muestrales, combinatoria) Medidas estadísticas (media, mediana, varianza, desviación estándar) Distribuciones fundamentales (binomial, normal, uniforme)"
+  },
+  {
+    "objectID": "minipags/index.html",
+    "href": "minipags/index.html",
+    "title": "🎀 Algoritmos Chic & Pink 🎀",
+    "section": "",
+    "text": "¡Chicas, este es el momento perfecto para adentrarse en el fascinante mundo de los algoritmos de inteligencia artificial! 🌟💻💖\nEn una era donde los datos y la tecnología están transformando todo a nuestro alrededor, las herramientas que nos brindan las matemáticas, la estadística, la computación y la programación son esenciales para entender lo que sucede a nuestro alrededor. 🤩🪐\nSabemos que las matemáticas a veces pueden parecer complicadas, ¡pero no te preocupes! Con los ejemplos de esta página, todo se vuelve mucho más fácil de entender. 📚✨\n¡Vas a ver cómo cada concepto se conecta y te va a sorprender lo lejos que puedes llegar!\nEstos conocimientos no solo forman la base de modelos científicos poderosos, sino que también nos permiten crear cambios reales en áreas clave como la salud mental, la educación y las políticas públicas. 💖💡🧠\nImagina diseñar soluciones que puedan prever tendencias de consumo, influir en redes sociales o incluso desarrollar nuevas tecnologías. Todo esto es posible gracias a las habilidades que estás a punto de dominar. Los algoritmos de IA están revolucionando el mundo, ¡y tú puedes ser parte de esta transformación! 🌸🌝💻✨\nNo tengas miedo de sumergirte en este universo lleno de posibilidades. ¡El futuro está en nuestras manos! 🌟💖🚀"
+  },
+  {
+    "objectID": "minipags/Nivel2.html",
+    "href": "minipags/Nivel2.html",
+    "title": "Nivel 2: Aplicaciones Iniciales",
+    "section": "",
+    "text": "1. Matemáticas Aplicadas\nCálculo diferencial e integral básico (límites, derivadas, integrales simples) Álgebra lineal inicial (sistemas de ecuaciones, matrices, vectores) Introducción a ecuaciones diferenciales\n2. Programación para Análisis de Datos\nManejo de librerías como NumPy, Pandas, Matplotlib\nCargar, limpiar y analizar datasets Conceptos de simulación computacional (generar datos sintéticos, distribuciones)\n3. Introducción a Modelos de Decisión\nCómo se toman decisiones bajo incertidumbre (introducción a heurísticas y sesgos) Introducción a teoría de juegos (dilema del prisionero, juegos simples) Modelos de utilidad esperada"
+  }
+]

@@ -1,5 +1,0 @@
----
-title: "Ascenso de colina"
----
-
-# $Y_{t+1} = aY_t + b(X_{t+1} − X_t)$

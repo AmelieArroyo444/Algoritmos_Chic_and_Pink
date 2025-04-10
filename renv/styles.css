@@ -1,0 +1,116 @@
+/* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: 'Poppins', sans-serif; /* Definir la fuente de todo el texto como Poppins */
+    color: black; /* Establecer el color del texto a negro */
+    background-color: white; /* Establecer el color de fondo de la página a blanco */
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 20px; /* Añadir un relleno de 20px alrededor del contenido */
+    max-width: 1800px; /* Establecer un ancho máximo de la página */
+    margin: 0 auto; /* Centrar la página horizontalmente */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Añadir una transición suave para cambios de color de fondo y texto */
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #F4A7B9; /* Establecer el color de los enlaces a rosa pastel */
+    text-decoration: none; /* Eliminar el subrayado en los enlaces */
+}
+
+/* Estilo para los enlaces cuando se pasa el ratón sobre ellos */
+a:hover {
+    color: #E91E63; /* Cambiar el color del enlace a rosa mexicano */
+    font-weight: bold; /* Hacer que el texto del enlace se ponga en negrita al pasar el ratón */
+}
+
+/* Estilo para los botones cuando se pasa el ratón sobre ellos */
+button:hover {
+    background-color: #FF69B4; /* Cambiar el color de fondo a rosa fuerte */
+    color: white; /* Cambiar el color del texto a blanco */
+}
+
+/* Estilo para la barra de navegación */
+.navbar {
+    background-color: #F4A7B9 !important; /* Cambiar el fondo de la barra de navegación a rosa pastel */
+}
+
+/* Estilo para la marca de la barra de navegación y los enlaces */
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: white !important; /* Cambiar el color del texto a blanco en la barra de navegación */
+}
+
+/* Estilo para los enlaces de la barra de navegación cuando se pasa el ratón sobre ellos */
+.navbar-nav .nav-link:hover {
+    color: #E91E63 !important; /* Cambiar el color del enlace al pasar el ratón a rosa mexicano */
+}
+
+/* Estilos para pantallas pequeñas (máximo 768px de ancho) */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px; /* Reducir el tamaño de la fuente a 16px para pantallas pequeñas */
+        padding: 10px; /* Reducir el relleno a 10px */
+    }
+
+    .container {
+        margin: 0 auto; /* Centrar el contenedor en pantallas pequeñas */
+        padding: 15px; /* Añadir un relleno de 15px */
+    }
+
+    img {
+        max-width: 100%; /* Hacer que las imágenes no se salgan del contenedor */
+        height: auto; /* Mantener la relación de aspecto de las imágenes */
+    }
+
+    .menu {
+        display: block; /* Hacer que el menú sea bloque y ocupe toda la anchura disponible */
+        text-align: center; /* Centrar los elementos del menú */
+    }
+
+    .menu li {
+        display: block; /* Hacer que cada elemento del menú ocupe una línea */
+        margin: 5px 0; /* Añadir márgenes de 5px entre los elementos del menú */
+    }
+
+    /* Hacer el texto del nombre del sitio más pequeño en pantallas pequeñas */
+    .navbar-brand {
+        font-size: 18px; /* Reducir el tamaño del texto */
+    }
+}
+
+/* Estilos para pantallas grandes (mínimo 769px de ancho) */
+@media (min-width: 769px) {
+    body {
+        font-size: 18px; /* Aumentar el tamaño de la fuente a 18px para pantallas grandes */
+        padding: 20px;   /* Añadir un relleno de 20px */
+    }
+
+    .container {
+        max-width: 1200px; /* Limitar el ancho del contenedor a 1200px */
+        margin: 0 auto; /* Centrar el contenedor */
+        padding: 30px; /* Añadir un relleno de 30px */
+    }
+
+    img {
+        max-width: 100%; /* Hacer que las imágenes se ajusten al ancho del contenedor */
+        height: auto; /* Mantener la relación de aspecto de las imágenes */
+    }
+
+    .menu {
+        display: flex; /* Mostrar los elementos del menú en una línea */
+        justify-content: space-around; /* Distribuir los elementos del menú de manera uniforme */
+    }
+
+    .menu li {
+        display: inline-block; /* Mostrar cada elemento del menú en línea */
+        margin: 0 15px; /* Añadir márgenes a los lados de los elementos del menú */
+    }
+
+    /* Reducir el margen entre los párrafos y el borde de la página */
+    p {
+        margin-top: 50px; /* Reducir el margen superior de los párrafos */
+        margin-bottom: 50px; /* Reducir el margen inferior de los párrafos */
+    }
+}

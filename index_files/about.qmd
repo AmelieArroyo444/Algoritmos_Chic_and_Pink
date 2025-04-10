@@ -1,0 +1,19 @@
+---
+title: "Nivel 1: Fundamentos Básicos"
+---
+
+**1. Matemáticas Fundamentales**
+
+Álgebra básica (ecuaciones, factorización, exponentes, logaritmos)\
+
+Geometría y trigonometría (funciones trigonométricas, vectores básicos) Introducción a la lógica matemática (proposiciones, cuantificadores, conjuntos)
+
+**2. Pensamiento Computacional**
+
+Conceptos básicos de programación (Python recomendado)\
+
+Algoritmos y estructuras de datos básicas (listas, diccionarios, bucles, funciones) Uso de herramientas como Jupyter Notebook para código reproducible
+
+**3. Razonamiento Probabilístico y Estadístico**
+
+Conceptos básicos de probabilidad (espacios muestrales, combinatoria) Medidas estadísticas (media, mediana, varianza, desviación estándar) Distribuciones fundamentales (binomial, normal, uniforme)

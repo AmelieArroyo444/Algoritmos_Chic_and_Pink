@@ -1,0 +1,16 @@
+---
+title: "Nivel 2: Aplicaciones Iniciales"
+---
+
+**1. Matemáticas Aplicadas**
+
+Cálculo diferencial e integral básico (límites, derivadas, integrales simples) Álgebra lineal inicial (sistemas de ecuaciones, matrices, vectores) Introducción a ecuaciones diferenciales
+
+**2. Programación para Análisis de Datos**
+
+Manejo de librerías como **NumPy, Pandas, Matplotlib\
+**Cargar, limpiar y analizar datasets Conceptos de simulación computacional (generar datos sintéticos, distribuciones)
+
+**3. Introducción a Modelos de Decisión**
+
+Cómo se toman decisiones bajo incertidumbre (introducción a heurísticas y sesgos) Introducción a teoría de juegos (dilema del prisionero, juegos simples) Modelos de utilidad esperada
